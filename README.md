@@ -1,4 +1,4 @@
-# Allen's Plaid Coding Interview
+# python_test_scaffolding
 
 - Implementation is in interview.py while tests are in test.py. 
 - To run the program / implementation run python3 interview.py
